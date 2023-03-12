@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "217517554209",
+    "project_id": "findmovies-d95d9",
+    "storage_bucket": "findmovies-d95d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217517554209:android:0e255f11384d7339b1c160",
+        "android_client_info": {
+          "package_name": "com.findmovies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217517554209-sr9ki6rjjrf5cbjp5vv5087svn549eu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_NZD9dE0hb-kYYiXYoZkfi_dGvlREGD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217517554209-sr9ki6rjjrf5cbjp5vv5087svn549eu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
